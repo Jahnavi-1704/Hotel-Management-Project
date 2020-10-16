@@ -1,7 +1,7 @@
 # Hotel-Management-Project
 Description-
 
-- This program provides various services to manage and run a hotel. It has 1 class called hotel.
+- This program provides various services to manage and run a hotel. It has 1 class called HOTEL.
 
 - It allows users to create hotel bookings by asking for personal information such as name, age, number of people, etc and then stores this information in a binary file as a database.
 
